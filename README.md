@@ -1,5 +1,2 @@
-My first readme
-
-
-cd root
-clear
+another readme fot 0x01.git
+my first readme
